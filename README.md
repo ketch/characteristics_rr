@@ -1,4 +1,5 @@
-# characteristics_rr
+# Characteristics reproducibility repository
+
 Code to accompany the paper 
 *A characteristics-based approximation for wave scattering from an arbitrary obstacle in one dimension*, by J. George, D.  I. Ketcheson, and R. J. LeVeque.  Submitted for publication and soon to be available on the [arXiv](http://www.arxiv.org).
 
